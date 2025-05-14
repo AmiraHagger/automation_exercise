@@ -1,0 +1,4 @@
+pages\PageBase.class
+pages\ProductsPage.class
+pages\CartPage.class
+pages\HomePage.class

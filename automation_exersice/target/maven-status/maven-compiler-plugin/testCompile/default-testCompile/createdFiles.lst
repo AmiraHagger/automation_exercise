@@ -1,0 +1,4 @@
+tests\VerifyProductQuantity.class
+tests\AddProductsToCart.class
+tests\TestBase.class
+tests\SubscriptionINcart.class

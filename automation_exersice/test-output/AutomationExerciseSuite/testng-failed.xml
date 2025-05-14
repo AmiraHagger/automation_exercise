@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationExerciseSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SubscriptionHappyScenarioTest(failed)">
+    <classes>
+      <class name="tests.Subscribtion_happySenario">
+        <methods>
+          <include name="setUp"/>
+          <include name="subscribtion_mail"/>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- tests.Subscribtion_happySenario -->
+    </classes>
+  </test> <!-- SubscriptionHappyScenarioTest(failed) -->
+</suite> <!-- Failed suite [AutomationExerciseSuite] -->
